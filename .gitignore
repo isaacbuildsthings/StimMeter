@@ -1,0 +1,14 @@
+*.zip
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+/reference/
+
+*.swp
+*.swo
+*~
+.luarc.json
+.luarc.jsonc

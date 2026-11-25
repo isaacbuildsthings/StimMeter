@@ -1,0 +1,11 @@
+## Interface: 16001
+## Title: StimMeter
+## Notes: Floating intensity and sustained movement streaks.
+## Version: 0.1.1
+## SavedVariables: StimMeterDB
+
+Config.lua
+Meter.lua
+Movement.lua
+Display.lua
+Core.lua
